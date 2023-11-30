@@ -1,0 +1,262 @@
+
+:root{
+    --bg-light:white;
+    --bg-dark:black;
+    --text-light:white;
+    --text-dark:black;
+
+    --theme-grayish-black:#191A19;
+    --theme-dark-green:#1E5128;
+    --theme-light-green:#4E9F3D;
+    --theme-lightish-green:#D8E9A8;
+
+    --theme-lt-blue:#e3e6f3;
+    --theme-grayish-blue:#465b52;
+
+}
+
+*{
+    margin: 0px !important;
+    padding: 0px ;
+    box-sizing: border-box;
+   
+    
+}
+
+::-webkit-scrollbar{
+    width: 10px;
+}
+::-webkit-scrollbar-track{
+    background-color: black;
+    
+}
+::-webkit-scrollbar-thumb{
+    background-color: var(--theme-lt-blue) ;
+}
+
+
+.nav_boxes_drop{
+    background-color: var(--theme-lt-blue);
+}
+
+
+.navbar{
+    background-color: var(--theme-lt-blue)!important;
+    
+}
+
+.nav_boxes{
+    margin-left: 30px !important;
+}
+.nav-item:hover{
+background-color: var(--theme-grayish-blue)!important;
+color: var(--text-light)!important;
+transition: all 0.5s ease-in-out;
+border-radius: 20%!important;
+}
+
+
+
+.nav-item:hover .nav-link{
+    color: var(--theme-lt-blue)!important;
+}
+
+
+.cart-icon{
+    width: 80px!important;
+    height: 60px !important; 
+
+}
+
+.nav-item:active{
+    background-color: var(--bg-dark)!important;
+    transition: background-color, 0.1s ease;
+}
+
+.nav-item:active .nav-link{
+    color:var(--text-light) !important;
+}
+
+.fa-opencart{
+    font-size: 30px;
+    font-weight: 800;
+    border: none;
+    background-color: none;
+}
+
+
+
+/* Cards Css */
+
+.card{
+    border: none;
+    outline: none;
+    background-color: white;
+    border-radius: 20px;
+    transition: transform 0.3s;
+}
+.card:hover{
+    transform: translateY(-15px);
+    transition: transform 0.3s;
+}
+.text1{
+    font-size: 13px;
+    color: white;
+
+}
+.info{
+    line-height: 17px;
+
+}
+.star{
+    color: yellow;
+}
+.price span{
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.btn_add{
+    background: #dc3545;   
+}
+.watchcost span{
+    color: #286783;
+    font-weight: bold;
+    font-size: 20px;
+}
+/* Card Css End */
+
+
+/* Css For Male Female Divisions */
+
+.m_division{
+    height: 550px;
+    background-image: url("../img/male-division.jpg");
+    background-position: auto;
+    background-size: cover;
+    border-radius: 5px;
+    box-shadow: -3px -2px 30px black;
+}
+
+.male_head{
+    margin-top: 75px!important;
+    font-size: 50px!important;
+    font-weight: 700!important;
+    color:#10171e !important;
+    text-shadow: 0px 3px 10px rgb(158, 190, 255);
+}
+
+.product-1 img{
+    height: 150px;
+}
+
+
+.f_division{
+    height: 550px;
+    background-image: url("../img/female-division.jpg");
+    background-position: auto;
+    background-size: cover;
+    border-radius: 5px;
+    box-shadow: -3px -2px 30px black;
+}
+
+.inner_division{
+    width: 80%;
+    height: 230px;
+    background:linear-gradient(to right bottom,rgba(255,255,255,0.7),rgba(255,255,255,0.3));
+    backdrop-filter: blur(5px);
+    color: var(--bg-dark);
+    z-index: 3;
+    border-top: 3px solid rgba(255,255,255,0.8);
+    border-left: 3px solid rgba(255,255,255,0.8);
+    box-shadow: -3px -3px 10px white;
+}
+
+.m_division:hover {
+    transform: translateY(-10px);
+    transition: all 0.5s ease-in-out;
+}
+
+.f_division:hover {
+    transform: translateY(-10px);
+    transition: all 0.3s ease;
+}
+
+.inner_division a{
+    text-decoration: none;
+}
+
+.container-fluid{
+    padding: 0;
+}
+
+.m_featured{
+    background-color: var(--theme-lt-blue);
+    color: black;
+    
+}
+
+.f_featured{
+    background-color: var(--theme-lt-blue);
+    color: black;
+    
+}
+
+
+/* Date time and geolocation */
+
+marquee{
+    overflow-x: hidden;
+    background-color: black;
+    color: white;
+}
+marquee p {
+    animation: ticker-anim 15s infinite linear;
+}
+
+@keyframes ticker-anim {
+    from{
+        transform: translateX(-50%);
+    }
+    to{
+        transform: translateX(100%);
+    }
+}
+
+
+/* Footer */
+
+#footer{
+    padding: 50px 0px;
+    color: #f2f2f2;
+}
+.fa-map-marker,.fa-phone,.fa-clock{
+    font-size: 30px;
+}
+.footerround{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    border: 1px solid#777;   
+    margin-left: 5px; 
+    transition: all 0.3s;
+}
+.footerround:first-child{
+     
+    margin-left: 0px; 
+}
+.footerround:hover{
+   
+    border: 1px solid white;   
+}
+
+.copyright{
+    text-align: center;
+    /* font-size: 14px; */
+}
+.copyright a{
+    font-weight: bold;
+    text-decoration: none;
+    color: #eb1e25;
+}

@@ -1,0 +1,276 @@
+[
+
+    {
+      "id": "1",
+      "image": "https://cdn.shopify.com/s/files/1/0553/3391/2769/products/4817b_1800x1800.jpg?v=1636100197",
+      "name": "KING FIELD SHIRT",
+      "category": "SHIRTS",
+      "condition": "8/10",
+      "size": "Medium",
+      "gender": "FEMALE",
+      "price": "400rs",
+      "quantity": "100"
+    },
+    {
+      "id": "2",
+      "image": "https://cdn.shopify.com/s/files/1/0553/3391/2769/products/1_0e85c564-9aa2-4fef-9a13-a2eac436fc5c_1800x1800.jpg?v=1646301299",
+      "name": "HM SHIRTS",
+      "category": "SHIRTS",
+      "condition": "7/10",
+      "gender": "FEMALE",
+      "price": "500rs",
+      "size": "Medium",
+      "quantity": "500"
+    },
+    {
+      "id": "3",
+      "image": "https://cdn.shopify.com/s/files/1/0553/3391/2769/products/2_fb9af05c-f7c3-4a24-81d1-59deeb94b5a8_1800x1800.jpg?v=1636526800",
+      "name": "ONLY SHIRTS",
+      "category": "SHIRTS",
+      "condition": "6/10",
+      "gender": "FEMALE",
+      "price": "600RS",
+      "size": "Medium",
+      "quantity": "10"
+    },
+    {
+      "id": "4",
+      "image": "https://cdn.shopify.com/s/files/1/0553/3391/2769/products/2_fb9af05c-f7c3-4a24-81d1-59deeb94b5a8_1800x1800.jpg?v=1636526800",
+      "name": "WALLIS SHIRTS",
+      "category": "SHIRTS",
+      "condition": "6/10",
+      "gender": "FEMALE",
+      "price": "900rs",
+      "size": "Large",
+      "quantity": "90"
+    },
+    {
+      "id": "5",
+      "image": "https://cdn.shopify.com/s/files/1/0553/3391/2769/products/3_ec57a0ec-d8fd-40bd-90a3-4c1a4cfcf127_1800x1800.jpg?v=1636387114",
+      "name": "SLOW LIFE SHIRTS",
+      "category": "SHIRTS",
+      "condition": "4/10",
+      "gender": "FEMALE",
+      "price": "600rs",
+      "size": "Medium",
+      "quantity": "10"
+    },
+    {
+      "id": "6",
+      "image": "https://cdn.shopify.com/s/files/1/0553/3391/2769/products/5978d_1800x1800.jpg?v=1636384698",
+      "name": "MARK SPENCER SHIRTS",
+      "category": "SHIRTS",
+      "condition": "6/10",
+      "gender": "FEMALE",
+      "price": "700rs",
+      "size": "Medium",
+      "quantity": "20"
+    },
+    {
+      "id": "7",
+      "image": "https://cdn.shopify.com/s/files/1/0553/3391/2769/products/2_a2b89f93-4bdd-4ac7-a52c-69a55725b3ae_1800x1800.jpg?v=1636384025",
+      "name": "YBMB SHIRTS",
+      "category": "SHIRTS",
+      "condition": "8/10",
+      "gender": "FEMALE",
+      "price": "850rs",
+      "size": "Medium",
+      "quantity": "50"
+    },
+    {
+      "id": "8",
+      "image": "https://cdn.shopify.com/s/files/1/0553/3391/2769/products/1_611f7353-c8c9-4ab4-82a9-6dc16e52407f_720x.jpg?v=1636380696",
+      "name": "VINTAGE WOMEN SHIRTS",
+      "category": "SHIRTS",
+      "condition": "8/10",
+      "gender": "FEMALE",
+      "price": "900rs",
+      "size": "Medium",
+      "quantity": "20"
+    },
+  
+    
+    
+    {
+      "id": "9",
+      "image": "https://cdn.shopify.com/s/files/1/0553/3391/2769/products/6043i_1800x1800.jpg?v=1638171904",
+      "name": "ZARA WOMEN PANTS",
+      "category": "PANTS",
+      "condition": "9/10",
+      "gender": "FEMALE",
+      "price": "900rs",
+      "size": "Medium",
+      "quantity": "90"
+    },
+    {
+      "id": "10",
+      "image": "https://cdn.shopify.com/s/files/1/0553/3391/2769/products/4672d_720x.jpg?v=1636550459",
+      "name": "LEVIS PANTS",
+      "category": "PANTS",
+      "condition": "6/10",
+      "gender": "FEMALE",
+      "price": "900rs",
+      "size": "Medium",
+      "quantity": "80"
+    },
+    {
+      "id": "11",
+      "image": "https://cdn.shopify.com/s/files/1/0553/3391/2769/products/4583d_1800x1800.jpg?v=1636542171",
+      "name": "FOR NARINA PANT",
+      "category": "AMERICSN EAGLE PANTS",
+      "condition": "7/10",
+      "gender": "FEMALE",
+      "price": "800rs",
+      "size": "Medium",
+      "quantity": "40"
+    },
+    {
+      "id": "12",
+      "image": "https://cdn.shopify.com/s/files/1/0553/3391/2769/products/4539d_720x.jpg?v=1636537593",
+      "name": "OLD NAVY PANTS",
+      "category": "PANTS",
+      "condition": "7/10",
+      "gender": "FEMALE",
+      "price": "900rs",
+      "size": "Medium",
+      "quantity": "10"
+    },
+    {
+      "id": "13",
+      "image": "https://cdn.shopify.com/s/files/1/0553/3391/2769/products/4539d_720x.jpg?v=1636537593",
+      "name": "HM PANTS",
+      "category": "PANTS",
+      "condition": "8/10",
+      "gender": "FEMALE",
+      "price": "400rs",
+      "size": "Medium",
+      "quantity": "190"
+    },
+    {
+      "id": "14",
+      "image": "https://cdn.shopify.com/s/files/1/0553/3391/2769/products/4998d_1800x1800.jpg?v=1636704701",
+      "name": "CROP PANTS",
+      "category": "PANTS",
+      "condition": "9/10",
+      "gender": "FEMALE",
+      "price": "550rs",
+      "size": "Medium",
+      "quantity": "20"
+    },
+    {
+      "id": "15",
+      "image": "https://cdn.shopify.com/s/files/1/0553/3391/2769/products/4998d_1800x1800.jpg?v=1636704701",
+      "name": "HOLLISTER PANTS",
+      "category": " STRAIGT LEG PANTS",
+      "condition": "7/10",
+      "gender": "FEMALE",
+      "price": "700rs",
+      "size": "Medium",
+      "quantity": "50"
+    },
+    {
+      "id": "16",
+      "image": "https://cdn.shopify.com/s/files/1/0553/3391/2769/products/5263a_1800x1800.jpg?v=1636700219",
+      "name": "NEXT PANT",
+      "category": "PANTS",
+      "condition": "8/10",
+      "gender": "FEMALE",
+      "price": "600rs",
+      "size": "Medium",
+      "quantity": "190"
+    },
+  
+  
+  
+  
+    {
+      "id": "17",
+      "image": "https://kasualshopping.com/wp-content/uploads/2018/04/AG68-i-510x600.jpg",
+      "name": "NIKEE ZOOM",
+      "category": "SHOES",
+      "condition": "8/10",
+      "gender": "male",
+      "price": "1600rs",
+      "size": "38",
+      "quantity": "90"
+    },
+    {
+      "id": "17",
+      "image": "https://kasualshopping.com/wp-content/uploads/2018/04/AG69-ii-247x296.jpg",
+      "name": "NIKEE LUNAR GLIDE",
+      "category": "SHOES",
+      "condition": "8/10",
+      "gender": "male",
+      "price": "1900rs",
+      "size": "40",
+      "quantity": "190"
+    },
+    {
+      "id": "16",
+      "image": "https://kasualshopping.com/wp-content/uploads/2018/02/AE73-ii-247x296.jpg",
+      "name": "NIKEE SLIDE LINE",
+      "category": "SHOES",
+      "condition": "10/10",
+      "gender": "male",
+      "price": "2000rs",
+      "size": "34",
+      "quantity":"190"
+    },
+    {
+      "id": "17",
+      "image": "https://kasualshopping.com/wp-content/uploads/2018/01/BN62-ii-247x296.jpg",
+      "name": "NIKEE AIR",
+      "category": "SHOES",
+      "condition": "9/10",
+      "gender": "male",
+      "price": "1800rs",
+      "size": "36",
+      "quantity": "10"
+    },
+    {
+      "id": "18",
+      "image": "https://kasualshopping.com/wp-content/uploads/2018/01/B78-ii-247x296.jpg",
+      "name": "NIKEE DUAL FUSION",
+      "category": "SHOES",
+      "condition": "8/10",
+      "gender": "male",
+      "price": "1200rs",
+      "size": "30",
+      "quantity": "90"
+    },
+    {
+      "id": "19",
+      "image": "https://kasualshopping.com/wp-content/uploads/2017/10/1ka11-2-247x296.jpg",
+      "name": "NIKEE DART 9",
+      "category": "SHOES",
+      "condition": "8/10",
+      "gender": "male",
+      "price": "600rs",
+      "size": "40",
+      "quantity": "90"
+    },
+    {
+      "id": "20",
+      "image": "https://kasualshopping.com/wp-content/uploads/2021/03/AB55-ii-247x296.jpg",
+      "name": "NIKEE REAX",
+      "category": "SHOES",
+      "condition": "9/10",
+      "gender": "male",
+      "price": "1700rs",
+      "size": "34",
+      "quantity": "10"
+    },
+    {
+      "id": "21",
+      "image": "https://kasualshopping.com/wp-content/uploads/2018/02/AE77-ii-247x296.jpg",
+      "name": "NIEKE FREE 5.0",
+      "category": "SHOES",
+      "condition": "8/10",
+      "gender": "male",
+      "price": "1800rs",
+      "size": "40",
+      "quantity": "20"
+    }
+    
+  
+  ]

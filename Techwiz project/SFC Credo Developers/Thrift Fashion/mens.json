@@ -1,0 +1,276 @@
+[
+
+  {
+    "id": "1",
+    "image": "https://cdn.shopify.com/s/files/1/0553/3391/2769/products/10070b_1800x1800.jpg? v=1659621558",
+    "name": "JACK AND JONES",
+    "category": "SHIRTS",
+    "condition": "8/10",
+    "size": "Medium",
+    "gender": "male",
+    "price": "400rs",
+    "quantity": "100"
+  },
+  {
+    "id": "2",
+    "image": "https://cdn.shopify.com/s/files/1/0553/3391/2769/products/10066b_1800x1800.jpg?v=1659621391",
+    "name": "DUTTI SPORTS",
+    "category": "SHIRTS",
+    "condition": "7/10",
+    "gender": "male",
+    "price": "500rs",
+    "size": "Medium",
+    "quantity": "100"
+  },
+  {
+    "id": "3",
+    "image": "https://cdn.shopify.com/s/files/1/0553/3391/2769/products/10065a_1800x1800.jpg?v=1659621140",
+    "name": "ZARA MEN",
+    "category": "SHIRTS",
+    "condition": "6/10",
+    "gender": "male",
+    "price": "600RS",
+    "size": "Medium",
+    "quantity": "100"
+  },
+  {
+    "id": "4",
+    "image": "https://cdn.shopify.com/s/files/1/0553/3391/2769/products/00010040a_1800x1800.jpg?v=1659620251",
+    "name": "TOMMY HILFIGR",
+    "category": "SHIRTS",
+    "condition": "6/10",
+    "gender": "male",
+    "price": "900rs",
+    "size": "Large",
+    "quantity": "100"
+  },
+  {
+    "id": "5",
+    "image": "https://cdn.shopify.com/s/files/1/0553/3391/2769/products/00010030a_1800x1800.jpg?v=1659620073",
+    "name": "TOMMY HILFIGER",
+    "category": "SHIRTS",
+    "condition": "4/10",
+    "gender": "male",
+    "price": "600rs",
+    "size": "Medium",
+    "quantity": "100"
+  },
+  {
+    "id": "6",
+    "image": "https://cdn.shopify.com/s/files/1/0553/3391/2769/products/00010021a_1800x1800.jpg?v=1659618099",
+    "name": "TOMMY HILFIGER",
+    "category": "SHIRTS",
+    "condition": "6/10",
+    "gender": "male",
+    "price": "700rs",
+    "size": "Medium",
+    "quantity": "100"
+  },
+  {
+    "id": "7",
+    "image": "https://cdn.shopify.com/s/files/1/0553/3391/2769/products/10000a_720x.jpg?v=1659524630",
+    "name": "pepe jeans",
+    "category": "SHIRTS",
+    "condition": "8/10",
+    "gender": "male",
+    "price": "850rs",
+    "size": "Medium",
+    "quantity": "100"
+  },
+  {
+    "id": "8",
+    "image": "https://cdn.shopify.com/s/files/1/0553/3391/2769/products/1_427f305d-91de-4e6b-9182-a5d5ec2aae94_720x.jpg?v=1659522383",
+    "name": "TOMMY HILFIGER",
+    "category": "SHIRTS",
+    "condition": "8/10",
+    "gender": "male",
+    "price": "900rs",
+    "size": "Medium",
+    "quantity": "100"
+  },
+
+  
+  
+  {
+    "id": "9",
+    "image": "https://cdn.shopify.com/s/files/1/0553/3391/2769/products/1_1800x1800_70965567-aa0a-4c81-bf2d-0f92be87eb9d_1800x1800.jpg?v=1640257122",
+    "name": "TOP SHOP MOTO PANTS",
+    "category": "PANTS",
+    "condition": "9/10",
+    "gender": "male",
+    "price": "900rs",
+    "size": "Medium",
+    "quantity": "90"
+  },
+  {
+    "id": "10",
+    "image": "https://cdn.shopify.com/s/files/1/0553/3391/2769/products/3_1800x1800_d9b3ce1f-4532-4234-a076-a40445a53ece_1800x1800.jpg?v=1640257677",
+    "name": "ESPRIT PANTS",
+    "category": "PANTS",
+    "condition": "6/10",
+    "gender": "male",
+    "price": "900rs",
+    "size": "Medium",
+    "quantity": "90"
+  },
+  {
+    "id": "11",
+    "image": "https://cdn.shopify.com/s/files/1/0553/3391/2769/products/6085b_1800x1800.jpg?v=1638174440",
+    "name": "FOR NARINA PANT",
+    "category": "PANTS",
+    "condition": "7/10",
+    "gender": "male",
+    "price": "800rs",
+    "size": "Medium",
+    "quantity": "90"
+  },
+  {
+    "id": "12",
+    "image": "https://cdn.shopify.com/s/files/1/0553/3391/2769/products/6043i_1800x1800.jpg?v=1638171904",
+    "name": "ZARA PANTS",
+    "category": "PANTS",
+    "condition": "7/10",
+    "gender": "male",
+    "price": "900rs",
+    "size": "Medium",
+    "quantity": "10"
+  },
+  {
+    "id": "13",
+    "image": "https://cdn.shopify.com/s/files/1/0553/3391/2769/products/6043i_1800x1800.jpg?v=1638171904",
+    "name": "TOP SHOP MOTO PANTS",
+    "category": "PANTS",
+    "condition": "8/10",
+    "gender": "male",
+    "price": "400rs",
+    "size": "Medium",
+    "quantity": "190"
+  },
+  {
+    "id": "14",
+    "image": "https://cdn.shopify.com/s/files/1/0553/3391/2769/products/5127a_360x.jpg?v=1636727611",
+    "name": "NEW LOOK PANTS",
+    "category": "PANTS",
+    "condition": "9/10",
+    "gender": "male",
+    "price": "550rs",
+    "size": "Medium",
+    "quantity": "20"
+  },
+  {
+    "id": "15",
+    "image": "https://cdn.shopify.com/s/files/1/0553/3391/2769/products/4995a_360x.jpg?v=1636704468",
+    "name": "ESPRIT PANTS",
+    "category": " STRAIGT LEG PANTS",
+    "condition": "7/10",
+    "gender": "male",
+    "price": "700rs",
+    "size": "Medium",
+    "quantity": "50"
+  },
+  {
+    "id": "16",
+    "image": "https://cdn.shopify.com/s/files/1/0553/3391/2769/products/4995a_360x.jpg?v=1636704468",
+    "name": "ST JOHN PANT",
+    "category": "PANTS",
+    "condition": "8/10",
+    "gender": "male",
+    "price": "600rs",
+    "size": "Medium",
+    "quantity": "190"
+  },
+
+
+
+
+  {
+    "id": "17",
+    "image": "https://kasualshopping.com/wp-content/uploads/2018/04/AG68-i-510x600.jpg",
+    "name": "NIKEE ZOOM",
+    "category": "SHOES",
+    "condition": "8/10",
+    "gender": "male",
+    "price": "1600rs",
+    "size": "38",
+    "quantity": "90"
+  },
+  {
+    "id": "17",
+    "image": "https://kasualshopping.com/wp-content/uploads/2018/04/AG69-ii-247x296.jpg",
+    "name": "NIKEE LUNAR GLIDE",
+    "category": "SHOES",
+    "condition": "8/10",
+    "gender": "male",
+    "price": "1900rs",
+    "size": "40",
+    "quantity": "190"
+  },
+  {
+    "id": "16",
+    "image": "https://kasualshopping.com/wp-content/uploads/2018/02/AE73-ii-247x296.jpg",
+    "name": "NIKEE SLIDE LINE",
+    "category": "SHOES",
+    "condition": "10/10",
+    "gender": "male",
+    "price": "2000rs",
+    "size": "34",
+    "quantity":"190"
+  },
+  {
+    "id": "17",
+    "image": "https://kasualshopping.com/wp-content/uploads/2018/01/BN62-ii-247x296.jpg",
+    "name": "NIKEE AIR",
+    "category": "SHOES",
+    "condition": "9/10",
+    "gender": "male",
+    "price": "1800rs",
+    "size": "36",
+    "quantity": "10"
+  },
+  {
+    "id": "18",
+    "image": "https://kasualshopping.com/wp-content/uploads/2018/01/B78-ii-247x296.jpg",
+    "name": "NIKEE DUAL FUSION",
+    "category": "SHOES",
+    "condition": "8/10",
+    "gender": "male",
+    "price": "1200rs",
+    "size": "30",
+    "quantity": "90"
+  },
+  {
+    "id": "19",
+    "image": "https://kasualshopping.com/wp-content/uploads/2017/10/1ka11-2-247x296.jpg",
+    "name": "NIKEE DART 9",
+    "category": "SHOES",
+    "condition": "8/10",
+    "gender": "male",
+    "price": "600rs",
+    "size": "40",
+    "quantity": "90"
+  },
+  {
+    "id": "20",
+    "image": "https://kasualshopping.com/wp-content/uploads/2021/03/AB55-ii-247x296.jpg",
+    "name": "NIKEE REAX",
+    "category": "SHOES",
+    "condition": "9/10",
+    "gender": "male",
+    "price": "1700rs",
+    "size": "34",
+    "quantity": "10"
+  },
+  {
+    "id": "21",
+    "image": "https://kasualshopping.com/wp-content/uploads/2018/02/AE77-ii-247x296.jpg",
+    "name": "NIEKE FREE 5.0",
+    "category": "SHOES",
+    "condition": "8/10",
+    "gender": "male",
+    "price": "1800rs",
+    "size": "40",
+    "quantity": "20"
+  }
+  
+
+]

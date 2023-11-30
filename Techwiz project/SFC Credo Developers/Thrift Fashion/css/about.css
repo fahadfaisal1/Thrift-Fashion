@@ -1,0 +1,236 @@
+#about{
+    padding: 50px 0px 50px 0px;
+}
+#about h3{
+    color: rgb(153, 149, 149);
+    font-size: 12px;
+    text-transform: uppercase;
+}
+#about h2{
+    color: rgb(153, 149, 149);
+    font-family: cursive;
+    text-transform: uppercase;
+}
+
+::-webkit-scrollbar{
+    width: 10px;
+}
+::-webkit-scrollbar-track{
+    background-color: black;
+    
+}
+::-webkit-scrollbar-thumb{
+    background-color: var(--theme-lt-blue) ;
+}
+
+#about p{
+    font-style: italic;
+    color: #777;
+}
+#about p:last-child{
+    font-style: normal;
+    color: #777;
+}
+.fa-check-double{
+    color: #eb1e25;
+    font-size: 16px;
+}
+#about ul{
+    list-style: none;
+}
+#about ul li{
+    padding: none;
+}
+.about-img{
+    position: relative;
+}
+
+.about-img div{
+    position: absolute;
+    width: 70%;
+    background-color: rgba(137, 43, 226, 0.5);
+    /* margin: auto; */
+    left: 100px;
+    bottom: 50px;
+}
+
+/* ................................why start............... */
+
+#whyus{
+    padding: 70px 0px 70px 0px;
+}
+
+#whyus .mycontent{
+    background-color: #eb1e25;
+    padding: 30px;
+    color: white;
+}
+
+#whyus .mycontent button{
+    width: auto;
+    padding: 8px 26px ;
+    color: white;
+    display: block;
+    margin: auto;
+    background-color: orchid;
+    border-radius: 50px;
+    transition: all 0.5s;
+}
+
+
+#whyus .mycontent button:hover{
+    
+    background-color: white;
+    color: #000;
+   
+}
+
+#whyus .mycard
+{
+    margin: auto;
+    background-color: #fff;
+    padding: 15px;
+    transition: all 0.4s;
+}
+#whyus .mycard:hover
+{
+    transform: scale(1.1);
+}
+#whyus .mycard .round{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    margin: auto;
+    background-color: rgba(218, 112, 214, 0.1);
+}
+.fa-shoe-prints,.fa-gem,.fa-user{
+    font-size: 30px;
+    color:#eb1e25;
+}
+#whyus .mycard p{
+    font-size: 20px;
+
+}
+
+#fixed{
+    background-image: url("../img/parker-burchfield-tvG4WvjgsEY-unsplash\ \(1\).jpg");
+    height: 300px;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+
+:root{
+    --bg-light:white;
+    --bg-dark:black;
+    --text-light:white;
+    --text-dark:black;
+
+    --theme-grayish-black:#191A19;
+    --theme-dark-green:#1E5128;
+    --theme-light-green:#4E9F3D;
+    --theme-lightish-green:#D8E9A8;
+
+    --theme-lt-blue:#e3e6f3;
+    --theme-grayish-blue:#465b52;
+
+}
+
+*{
+    margin: 0px !important;
+    padding: 0px ;
+    box-sizing: border-box;
+   
+    
+}
+.container-fluid{
+    padding: 0;
+}
+
+
+.nav_boxes_drop{
+    background-color: var(--theme-lt-blue);
+}
+
+
+.navbar{
+    background-color: var(--theme-lt-blue)!important;
+    
+}
+
+.nav_boxes{
+    margin-left: 30px !important;
+}
+.nav-item:hover{
+background-color: var(--theme-grayish-blue)!important;
+color: var(--text-light)!important;
+transition: all 0.5s ease-in-out;
+border-radius: 20%!important;
+}
+
+
+
+.nav-item:hover .nav-link{
+    color: var(--theme-lt-blue)!important;
+}
+
+
+.cart-icon{
+    width: 80px!important;
+    height: 60px !important; 
+
+}
+
+.nav-item:active{
+    background-color: var(--bg-dark)!important;
+    transition: background-color, 0.1s ease;
+}
+
+.nav-item:active .nav-link{
+    color:var(--text-light) !important;
+}
+
+.fa-opencart{
+    font-size: 30px;
+    font-weight: 800;
+    border: none;
+    background-color: none;
+}
+
+
+/* footer */
+
+#footer{
+    padding: 50px 0px;
+    color: #f2f2f2;
+}
+.fa-map-marker,.fa-phone,.fa-clock{
+    font-size: 30px;
+}
+.footerround{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    border: 1px solid#777;   
+    margin-left: 5px; 
+    transition: all 0.3s;
+}
+.footerround:first-child{
+     
+    margin-left: 0px; 
+}
+.footerround:hover{
+   
+    border: 1px solid white;   
+}
+
+.copyright{
+    text-align: center;
+    /* font-size: 14px; */
+}
+.copyright a{
+    font-weight: bold;
+    text-decoration: none;
+    color: #eb1e25;
+}
